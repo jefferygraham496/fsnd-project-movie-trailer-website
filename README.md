@@ -11,11 +11,14 @@ These instructions will show you how to run the program.
 Python 2.7
 
 ### Installing
+1. Clone the repo by running $ **git clone https://github.com/jefferygraham496/FSND-Project-Movie-Trailer-Website.git** from the command prompt
 
-1. Install *tmdbsimple* by running $ **pip install tmdbsimple** from the command prompt
+2. Change to the *FSND-Project-Movie-Trailer-Website/movies* directory
 
-2. Generate the file *fresh\_tomatoes.html* by running $ **python entertainment\_center.py** from the command prompt. By clicking on the movies, a modal opens up and the trailer is played
+3. Install *tmdbsimple* by running $ **pip install tmdbsimple** from the command prompt
+
+4. Generate the file *fresh\_tomatoes.html* by running $ **python entertainment\_center.py** from the command prompt. By clicking on the movies, a modal opens up and the trailer is played
 
 ## API Reference
 
-This project uses an API from *The Movie Database*, which can be found at [The Movie Database API](https://developers.themoviedb.org/3/getting-started). This project also uses *tmdbsimple*, A Python wrapper for The Movie Database API v3, the documentation can be found at [here](https://github.com/celiao/tmdbsimple).
+This project uses an API from *The Movie Database*, which can be found at [The Movie Database API](https://developers.themoviedb.org/3/getting-started). This project also uses *tmdbsimple*, A Python wrapper for The Movie Database API v3. The documentation can be found at [here](https://github.com/celiao/tmdbsimple).
