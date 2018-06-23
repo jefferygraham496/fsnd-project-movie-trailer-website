@@ -11,7 +11,7 @@ These instructions will show you how to run the program.
 Python 2.7
 
 ### Installing
-1. Clone the repo by running $ **git clone https://github.com/jefferygraham496/FSND-Project-Movie-Trailer-Website.git** from the command prompt
+1. Clone the repo by running $ **git clone https://github.com/jlg992/FSND-Project-Movie-Trailer-Website.git** from the command prompt
 
 2. Change to the *FSND-Project-Movie-Trailer-Website/movies* directory
 
